@@ -13,6 +13,8 @@ export default function Home() {
           <Baby />
           <hr className="my-4" />
           <Past />
+          <hr className="my-4" />
+          <hr className="my-4" />
         </div>
       </main>
     </div>
