@@ -1,4 +1,3 @@
-import Image from "next/image";
 import BfTraits from "./bf_traits/page";
 import Header from "./header/page";
 
