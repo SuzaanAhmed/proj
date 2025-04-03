@@ -25,7 +25,7 @@ function Past() {
   return (
     <div>
       <h1 className="text-xl font-bold">I am attractive. That makes you insecure. I get it.</h1>
-      <p>No need to worry—these are all my past relationships. They're all blocked.</p>
+      <p>No need to worry—these are all my past relationships. They are all blocked.</p>
       <ol className="list-decimal ml-6 mt-2">
         <li>Shreyas (My favorite)</li>
         <li>Sharath</li>
